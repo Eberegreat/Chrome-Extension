@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Shopping List",
+    "version": "1.0",
+    "description": "Save items to your shopping list",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "tabs",
+      "storage"
+    ],
+    "icons": {
+        "128": "icons/image_1.jpg"
+    }
+  }
